@@ -1,3 +1,3 @@
-From node:latest
+FROM node:latest
 
 CMD ['node', '-v']
